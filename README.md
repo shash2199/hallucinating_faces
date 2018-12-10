@@ -2,18 +2,19 @@
 This repository is for our Computer Vision class final project.
 
 Team Members:
-<ol>
+<ul>
 <li>Shashwat Srivastava</li>
 <li>Vince Pascale</li>
 <li>William Bravo</li>
-</ol>
+</ul>
 In this project, we tried to implement an image security system, which:
-1. Uses Error Level Analysis (ELA) to detect if an <b>JPEG image</b> has been digitally modified
-2. Applies the Image Duplication Detection (IDD) procedure to see if a part of an image
-    has been digitally copied and pasted onto the same image
-3. Uses the face hallucination algorithm to make a <b> super-resolution </b> image of
-    the given pixelated images.
-  
+<ol>
+<li>Uses Error Level Analysis (ELA) to detect if an <b>JPEG image</b> has been digitally modified</li>
+<li>Applies the Image Duplication Detection (IDD) procedure to see if a part of an image
+    has been digitally copied and pasted onto the same image</li>
+<li>Uses the face hallucination algorithm to make a <b> super-resolution </b> image of
+    the given pixelated images.</li>
+</ol>
 <h2> Potential Application </h2>  
 The way we see this project is as a image security system for law enforcement.
 Suppose, a person goes missing and a third person goes to the law enforcement with an image of
