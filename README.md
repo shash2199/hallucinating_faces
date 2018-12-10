@@ -13,7 +13,8 @@ In this project, we tried to implement an image security system, which:
 <li>Applies the Image Duplication Detection (IDD) procedure to see if a part of an image
     has been digitally copied and pasted onto the same image</li>
 <li>Uses the face hallucination algorithm to make a <b> super-resolution </b> image of
-    the given pixelated images.</li>
+    the given pixelated images [we were not able to put the code here since the sheer size of
+    all the files along with the code was way too large].</li>
 </ol>
 <h2> Potential Application </h2>  
 The way we see this project is as a image security system for law enforcement.
@@ -29,5 +30,6 @@ So, before face hallucination is deployed, the ELA and IDD procedures will come 
 
 
 <h3> Disclaimer </h3>
-This project was meant to be educational use only. We do not intend to use this for 
-commercial purposes in any way whatsoever.
+This project was meant to be educational use only and uses information from various papers
+and research, especially that of Hany Farid. We do not intend to use this for commercial purposes 
+in any way whatsoever.
