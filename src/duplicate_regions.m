@@ -1,3 +1,4 @@
+%% Author: Shashwat Srivastava
 % reading the image
 img = imread('books-orig.jpg');
 img = imgaussfilt(img);
