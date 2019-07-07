@@ -1,5 +1,5 @@
 # Photo Forensics
-This repository is for our Computer Vision class final project.
+This repository is for our Computer Vision project.
 
 Team Members:
 <ul>
